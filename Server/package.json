@@ -11,5 +11,8 @@
     "communication"
   ],
   "author": "Pratik Pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
 }
